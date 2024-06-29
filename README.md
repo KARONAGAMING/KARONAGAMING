@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael F.</h1>
 <h3 align="center">A passionate junior developer from Greece</h3>
-<p align="center"><a href="https://discord.com/users/791490264904499220/"><img src="https://discord.c99.nl/widget/theme-3/791490264904499220.png" /></a></p>
+<p align="center"><a href="https://discord.com/users/791490264904499220/"><img src="https://discord.c99.nl/widget/theme-1/791490264904499220.png" /></a></p>
 
 - 🔭 I’m currently working on [Pleng](https://github.com/KARONAGAMING/Pleng)
 
