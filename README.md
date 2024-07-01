@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael F.</h1>
+<h1 align="center">Hi 👋, I'm Mr. Karona.</h1>
 <h3 align="center">A passionate junior developer from Greece</h3>
 <p align="center"><a href="https://discord.com/users/791490264904499220/"><img src="https://discord.c99.nl/widget/theme-1/791490264904499220.png" /></a></p>
 
