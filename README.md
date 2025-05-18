@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript and other different languages**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/KARONAGAMING?tab=projects)]
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/KARONAGAMING?tab=projects)
 
 - 📫 How to reach me **karonagaming_** (discord), **[Telegram](https://t.me/Din_Karona)**, **[Discord Server](https://discord.gg/apsara)**
 
